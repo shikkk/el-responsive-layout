@@ -1,6 +1,6 @@
 # datax-index
 
-> Vue.js + element-ui 的官网项目，实现pc+移动端响应式展示
+  Vue.js + element-ui 的官网项目，实现pc+移动端响应式展示
 ## Build Setup
 
 ``` bash
